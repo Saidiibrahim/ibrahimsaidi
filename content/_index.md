@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim Saidi"
-subtitle: "Product Manager, Data Science Communication @RStudio"
-description: "I am a data scientist, behavioral scientist, and award-winning educator. I work on products that make it easier and more delightful for data scientists to communicate. I am also a co-developer of the `palmerpenguins`, `distill`, and `blogdown` R packages, as well an author and international keynote speaker."
+subtitle: "R/Shiny Developer"
+description: "Hello and welcome! I’m a self-taught programmer (through [DataCamp](https://www.datacamp.com/) and [Codeacademy](https://www.codecademy.com/)). I enjoy working at the intersection of data science and web development. I’m a passionate R user and developer. I build [Shiny Apps](https://shiny.rstudio.com/), interactive tutorials for R, and dynamic, interactive, reproducible reports using R [Markdown](https://rmarkdown.rstudio.com/)."
 images:
   - img/Profile_pic.JPG
 image_left: false

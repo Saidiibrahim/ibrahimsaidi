@@ -1,10 +1,10 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Alison Hill"
-role: "Product Manager, Data Science Communication @RStudio"
-avatar_shape: rounded # circle, square, rounded
+author: "Ibrahim Saidi"
+role: "R/Shiny Developer"
+avatar_shape: circle # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How to say my name"
+audio_link_label: ""
 link_list_label: "Into..." # bookmarks, elsewhere, etc.
 link_list:
 - name: "Gift wrap"

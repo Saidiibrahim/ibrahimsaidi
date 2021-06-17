@@ -7,6 +7,12 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a former autism researcher, Associate Professor, and National Institutes of Health-funded Principal Investigator, who transitioned from academic research into data science and now product management. 
+As an undergrad, I studied at [The University of Adelaide](https://www.adelaide.edu.au/), where I received a Bachelor's degree in Biomedical Science. I then went on to pursue a Masters' degree in Biotechnology(biomedical). 
 
-I love teaching, and am an award-winning educator with over 13 years of experience. I've developed and led advanced workshops on literate programming and machine learning at conferences like `rstudio::conf`, R / Medicine, and R in Pharma.
+After struggling to find work in my area of study, I decided to learn programming. I was particularly interested in R because I had been introduced to it in during Master's degree. A few months into learning R, i quickly discovered I'm even more interested in building R powered web applications, or Shiny apps.
+
+One of the things I'm most passionate about is making self-directed learning of R easier for others. Novice or not, I hope you find my blog posts useful. I'll dedicate this blog to R programming, but you can check out[ my medium blog articles](https://ibrahimsaidi94.medium.com/), where I write about wide ranging topics.
+
+
+
+
