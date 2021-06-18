@@ -13,6 +13,8 @@ After struggling to find work in my area of study, I decided to learn programmin
 
 One of the things I'm most passionate about is making self-directed learning of R easier for others. Novice or not, I hope you find my blog posts useful. I'll dedicate this blog to R programming, but you can check out[ my medium blog articles](https://ibrahimsaidi94.medium.com/), where I write about wide ranging topics.
 
+ I hope this site serves as a resource for your own personal learning journey, and is a place where you enjoy spending time and feel a little less alone as you embark on your learning endeavors.
+
 
 
 
