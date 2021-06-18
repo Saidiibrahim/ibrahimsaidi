@@ -15,7 +15,7 @@ math: true
 selected: true
 title: Code Your Graph Workshop
   
-tags: [workshop, dataviz, ggplot2]
+tags: []
 ---
 
 {{< figure src="code-your-graph.jpg" >}}
