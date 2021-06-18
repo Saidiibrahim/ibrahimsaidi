@@ -1,7 +1,7 @@
 ---
-title: Hi there
+title: Let’s do something together!
 name: Contact Us Form
-description: "This form is for contacting me about speaking engagements, opportunities to work together, or mentorship requests. This is *NOT* a form for requesting help."
+description: "If you’re interested in working with me, don't hesitate to reach out." 
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
@@ -12,7 +12,7 @@ show_social_links: true # specify social accounts in site config
 show_poweredby_formspree: true
 # From the Integration tab in Formspree where it says Your form's endpoint is:
 # https://formspree.io/f/abcdefgh The id will be "abcdefgh"
-formspree_form_id: "mdopqgqv"
+formspree_form_id: "mvodrvlb"
 ---
 
 ** Contact page don't contain a body, just the front matter above.
