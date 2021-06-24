@@ -16,16 +16,16 @@ sidebar:
   description:  "Hope you're enjoying my blog posts. Below are a collection of books and articles I'm currently reading:
   <br>
   <br>
-  [**The Rosary** - essay by Alexander Chee](https://www.newyorker.com/culture/personal-history/the-rosary)
+  [**Mastery** - by Robert Greene](https://www.booktopia.com.au/mastery-robert-greene/book/9781781250914.html)
   <br>
-  [**Unbuttoned** - essay by David Sedaris](https://www.newyorker.com/magazine/2020/03/02/unbuttoned)
+  [**Stillness is the key** - by Ryan Holiday](https://www.booktopia.com.au/stillness-is-the-key-ryan-holiday/book/9781788162067.html)
   <br>
-  [**The City Born Great** - short story by N.K. Jemisin](https://www.tor.com/2016/09/28/the-city-born-great/)
+  [**Modern JavaScript Explained For Dinosaurs** - artile by Peter Jang ](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
   <br>
-  [**The Miseducation of Eunice Waymon** - Soul Mates Project from Amerigo Gazaway ](https://www.youtube.com/watch?v=-THq0-EDJrE)"
+"
   author: "Ibrahim Saidi"
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
+  text_link_label: ""
+  text_link_url: ""
   show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all pages inside blog/

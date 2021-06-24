@@ -1,5 +1,5 @@
 ---
-author: Jesse Mostipak
+author: Ibrahim Saidi
 categories:
 - Shiny
 - Data Visualisation
