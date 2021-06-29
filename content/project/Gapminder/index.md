@@ -21,4 +21,4 @@ tags:
 title: Gapminder Explorer
 ---
 
-This app is build using R and Shiny. It uses the gapminder package to explore the world health and economic data from the 
+This app is build using R and Shiny. It explores the world health and economic data from the [gapminder package](https://cran.r-project.org/web/packages/gapminder/README.html) 
