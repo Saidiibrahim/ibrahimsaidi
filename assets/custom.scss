@@ -178,4 +178,11 @@
   background-color: #f3eddf;
 }
 
+/* Changing background colour of code block to grey   */
+.bg-transparent, pre, .post-header a.btn-links, 
+article footer a.btn-links, form textarea, 
+form select, form [type=text], form [type=email] {
+    background-color: #ebebeb;
+}
+
 
